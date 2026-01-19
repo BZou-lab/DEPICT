@@ -1,0 +1,11 @@
+# Ignore large data files
+Data/FinalData/*.csv
+*.csv
+*.h5ad
+*.pt
+*.pth
+
+# Ignore Python environment and cache
+__pycache__/
+.venv/
+.ipynb_checkpoints/
