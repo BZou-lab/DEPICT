@@ -1,7 +1,7 @@
 # DEPICT
 This is the GitHub page for DEPICT (Drug rEsponse Prediction in transCriptomics with Transformers).
 
-Paper Title: In silico prediction of perturbational transcriptomes for mechanism-guided virtual screening and synergy prediction.
+Paper Title: Condition-matched in silico prediction of drug transcriptional responses enables mechanism-guided screening and combination discovery.
 
 ## Environment
 The "requirements.txt" are used to set up the virtual environment.
