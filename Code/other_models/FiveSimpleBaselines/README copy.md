@@ -1,4 +1,5 @@
 # other_models
+This folder contains 2 folders, which are "PRNet" and "TranSiGen".
 
 ## PRNet
 This folder contains codes that train and infer for PRNet: https://www.nature.com/articles/s41467-024-53457-1. The original GitHub page is: https://github.com/Perturbation-Response-Prediction/PRnet. Please clone the whole repository before running my modified code.
