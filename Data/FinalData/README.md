@@ -13,4 +13,6 @@ The compound representations derived from ChatGPT API, for all compounds.
 The 512-bit binary Morgan fingerprints for all compounds.
 
 ## compounds_target_multihot_full.csv
-The multi-hot encoded target information for all compounds.
+The multi-hot encoded target information for all compounds. 
+
+This multi-hot encoded target drug feature is not used in our original study, because it is considered redundant as we included the target information in the gpt-derived embeddings. If you are interested in using this target feature, you could modify the training and inference code correspondingly.
