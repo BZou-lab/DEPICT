@@ -1,54 +1,10 @@
-# DEPICT
-This is the GitHub page for DEPICT (Drug rEsponse Prediction in transCriptomics with Transformers).
+# preprocessing_code
+This is the folder that contains all the preprocessing steps for data in our study. 
 
-Paper Title: In silico prediction of perturbational transcriptomes for mechanism-guided virtual screening and synergy prediction.
+All the data after preprocessing can be found in './Data/FinalData'. You can ignore this part if you are not interested in studying some preprocessing techniques or replicating our study at the very begining.
 
-## Environment
-The "requirements.txt" are used to set up the virtual environment.
+## drug_features
+This folder contains how we engineer the drug features used in this study.
 
-Detailed virtual environment setup is listed below:
-
-Python: 3.11.13
-
-Required packages and detailed version:
-
-numpy: 2.2.6
-
-pandas: 2.3.2
-
-scanpy: 1.11.4
-
-scikit-learn: 1.7.1
-
-scipy: 1.16.1
-
-torch: 2.8.0
-
-tqdm: 4.67.1
-
-rdkit: 2025.3.3
-
-anndata: 0.12.2
-
-matplotlib: 3.10.3
-
-seaborn: 0.13.2
-
-After creating the virtual environment, use these commands to download all required packages:
-
-python -m pip install --upgrade pip
-
-pip install -r requirements.txt
-
-
-## Folders in the main page
-### Code
-"Code" folder contains all the code used in DEPICT, including preprocessing data; training and inference; downstream analysis.
-### Data
-"Data" folder contains all the data used in DEPICT. Some of the data are not in GitHub due to size limit, and these data can be obtained by using the preprocessing code.
-### Model
-"Model" folder contains the saved check points for DEPICT after training.
-### Results
-"Results" folder contains the numerical results for model comparison; downstream analysis; tuning results.
-### Figs
-"Figs" folder contains all the figures included in the paper.
+## gene_features
+This folder contains how we clean and preprocess the LINCS perturbational data.
