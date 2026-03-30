@@ -195,7 +195,7 @@ all_filled = n_missing == 0
 print("Every row has a non-empty paired_control_index:", all_filled)
 #### all experiments have a paired index.
 '''
-Because the data is large, if your machine cannot ram cannot handle. save it and clear space and load it again.
+Because the data is large, if your machine's ram cannot handle. save it and clear space and load it again.
 '''
 # adata2.write(".../DEPICT/Data/RawData/halfway_data/adata2.h5ad")
 #
