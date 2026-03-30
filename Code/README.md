@@ -5,7 +5,9 @@ This folder contains 4 folders, which are "preprocessing_code", "train_code", "i
 Please keep a track on all the paths shown in every code. Please make all the (absolute/relative) paths exist and comfortable for yourself before running any codes.
 
 ## preprocessing_code
-This folder contains codes that preprocess raw data into the data used in training, validation, testing and downstream analysis.
+This folder contains codes that preprocess raw data into the data used in training, validation, testing and downstream analysis. 
+
+All data after preprocessing are in the ./Data/FinalData. So you can ignore this part if you are not interested in replicating our preprocessing step.
 
 ## train_code
 This folder contains codes that train the DEPICT.
