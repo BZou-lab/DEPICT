@@ -1,7 +1,7 @@
 # FinalData
 This folder contains all the data you need to train and infer via DEPICT.
 
-Please download the 'adataAfterClean.h5ad' and 'gptEmbed_Jul9_final.csv' before you run the model, from [Zenodo](https://zenodo.org/records/19207077).
+Please download the 'adataAfterClean.h5ad' and 'gptEmbed_Jul9_final.csv' into this folder before you run the model, from [Zenodo](https://zenodo.org/records/19207077).
 
 ## adataAfterClean.h5ad
 The perturbational dataset derived from LINCS L1000.

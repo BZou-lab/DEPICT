@@ -50,5 +50,3 @@ pip install -r requirements.txt
 "Model" folder contains the saved check points for DEPICT after training.
 ### Results
 "Results" folder contains the numerical results for model comparison; downstream analysis; tuning results.
-### Figs
-"Figs" folder contains all the figures included in the paper.
