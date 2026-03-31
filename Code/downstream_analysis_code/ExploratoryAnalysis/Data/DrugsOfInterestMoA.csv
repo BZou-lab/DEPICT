@@ -1,0 +1,484 @@
+,pert_iname,clinical_phase,moa,target,disease_area,indication,moa_nsclc,moa_group
+50,ABT-751,Phase 2,tubulin polymerization inhibitor,TUBB,,,Microtubule inhibitor,Mitotic / cell-cycle
+56,AC-55541,Preclinical,PARP inhibitor,PARP2,,,PARP inhibitor,DNA damage & repair
+62,acalisib,Phase 1,PI3K inhibitor,PIK3CB|PIK3CD,,,PI3K inhibitor,PI3K–AKT–mTOR
+101,aclarubicin,Launched,topoisomerase inhibitor,TOP1|TOP2A,hematologic malignancy,acute myeloid leukemia (AML),Topoisomerase inhibitor,Topoisomerase inhibitor
+114,ACTB-1003,Phase 1,FGFR inhibitor|VEGFR inhibitor,KDR|TEK,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+118,ACY-1215,Phase 1/Phase 2,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC6|HDAC8,,,HDAC inhibitor,HDAC inhibitor
+149,AEE788,Phase 1/Phase 2,EGFR inhibitor|VEGFR inhibitor,EGFR|ERBB2|ERBB4|FGFR2|FGFR3|KDR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+153,afatinib,Launched,EGFR inhibitor,EGFR|ERBB2|ERBB4,oncology,non-small cell lung cancer (NSCLC),EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+160,AG-14361,Preclinical,PARP inhibitor,PARP1,,,PARP inhibitor,DNA damage & repair
+161,AG-490,Preclinical,EGFR inhibitor|JAK inhibitor,EGFR|JAK2|JAK3,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+192,albendazole,Launched,tubulin polymerization inhibitor,TUBA1A|TUBB|TUBB4B,infectious disease,cystic hydatid disease|parenchymal neurocysticercosis,Microtubule inhibitor,Mitotic / cell-cycle
+200,aldoxorubicin,Phase 3,topoisomerase inhibitor,TOP2A,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+201,alectinib,Launched,ALK tyrosine kinase receptor inhibitor,ALK|MET,oncology,non-small cell lung cancer (NSCLC),ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+228,aloin,Preclinical,angiogenesis inhibitor,,,,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+233,alpelisib,Launched,PI3K inhibitor,PIK3CA|PIK3CB|PIK3CD|PIK3CG,oncology,breast cancer,PI3K inhibitor,PI3K–AKT–mTOR
+252,altiratinib,Phase 1,MET inhibitor|VEGFR inhibitor,KDR|MET|TEK,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+289,AMG-319,Phase 2,PI3K inhibitor,PIK3CD,,,PI3K inhibitor,PI3K–AKT–mTOR
+290,AMG-337,Phase 2,MET inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+299,AMG319,Phase 2,PI3K inhibitor,PIK3CD,,,PI3K inhibitor,PI3K–AKT–mTOR
+300,AMG458,Preclinical,MET inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+338,amonafide,Phase 3,topoisomerase inhibitor,TOP2A|TOP2B,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+353,amrubicin,Launched,topoisomerase inhibitor,TOP2A|TOP2B,oncology,small cell lung cancer,Topoisomerase inhibitor,Topoisomerase inhibitor
+354,amsacrine,Launched,topoisomerase inhibitor,KCNH2|TOP2A,hematologic malignancy,acute lymphoblastic leukemia (ALL),Topoisomerase inhibitor,Topoisomerase inhibitor
+378,anecortave-acetate,Launched,angiogenesis inhibitor,,ophthalmology,macular degeneration,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+388,anlotinib,Launched,PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,KDR|PDGFRB,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+434,AP26113,Phase 2,ALK tyrosine kinase receptor inhibitor,ALK|EGFR,,,ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+441,AR-42,Phase 1,HDAC inhibitor,HDAC1,,,HDAC inhibitor,HDAC inhibitor
+447,arctigenin,Preclinical,MEK inhibitor,CHUK|MAP2K1,,,MEK inhibitor,MAPK (RAF→MEK)
+462,ARRY-334543,Phase 2/Phase 3,EGFR inhibitor,ERBB2,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+477,AS-252424,Preclinical,PI3K inhibitor,PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+478,AS-604850,Preclinical,PI3K inhibitor,PIK3CA|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+479,AS-703026,Phase 2,MEK inhibitor,MAP2K1|MAP2K2,,,MEK inhibitor,MAPK (RAF→MEK)
+481,ASA-404,Phase 3,angiogenesis inhibitor,,,,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+497,ASP3026,Phase 1,ALK tyrosine kinase receptor inhibitor,ALK,,,ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+498,AST-1306,Phase 1,EGFR inhibitor,EGFR|ERBB2,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+554,avitinib,Phase 2,EGFR inhibitor,,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+562,axitinib,Launched,PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,CSF1|FLT1|FLT4|KDR|PLK4,oncology,renal cell carcinoma (RCC),VEGFR inhibitor,Angiogenesis / VEGF axis
+567,AZ-628,Preclinical,RAF inhibitor,BRAF|RAF1,,,RAF inhibitor,MAPK (RAF→MEK)
+587,AZD2014,Phase 2,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+588,AZD2461,Phase 1,PARP inhibitor,,,,PARP inhibitor,DNA damage & repair
+591,AZD3463,Preclinical,ALK tyrosine kinase receptor inhibitor|insulin growth factor receptor inhibitor,ALK|IGF1R,,,ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+593,AZD3759,Phase 2/Phase 3,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+598,AZD4547,Phase 2/Phase 3,FGFR inhibitor,FGFR1|FGFR2|FGFR3|FGFR4|IGF1R|KDR,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+607,AZD6482,Phase 1,PI3K inhibitor,PIK3CA|PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+615,AZD8055,Phase 1,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+616,AZD8186,Phase 1,PI3K inhibitor,PIK3CB|PIK3CD,,,PI3K inhibitor,PI3K–AKT–mTOR
+617,AZD8330,Phase 1,MEK inhibitor,MAP3K1,,,MEK inhibitor,MAPK (RAF→MEK)
+619,AZD8835,Phase 1,PI3K inhibitor,PIK3CA|PIK3CD,,,PI3K inhibitor,PI3K–AKT–mTOR
+620,AZD8931,Phase 2,EGFR inhibitor,EGFR|ERBB2|ERBB3,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+643,AZ5104,Preclinical,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+650,A66,Preclinical,PI3K inhibitor,PIK3CA,,,PI3K inhibitor,PI3K–AKT–mTOR
+676,banoxantrone,Phase 1/Phase 2,topoisomerase inhibitor,TOP2A,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+719,BEBT-908,Preclinical,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+728,belinostat,Launched,HDAC inhibitor,HDAC1|HDAC10|HDAC11|HDAC2|HDAC3|HDAC4|HDAC5|HDAC6|HDAC7|HDAC8|HDAC9,hematologic malignancy,peripheral T-cell lymphoma (PTCL),HDAC inhibitor,HDAC inhibitor
+730,belotecan,Phase 3,topoisomerase inhibitor,,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+795,beta-lapachone,Phase 2,topoisomerase inhibitor,TOP1,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+818,BFH772,Phase 2,VEGFR inhibitor,,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+819,BGP-15,Phase 2,PARP inhibitor,,,,PARP inhibitor,DNA damage & repair
+820,BGT226,Phase 1/Phase 2,PI3K inhibitor,MTOR|PIK3CA|PIK3CB|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+827,BI-847325,Phase 1,Aurora kinase inhibitor|MEK inhibitor,AURKA|AURKB|AURKC|MAP2K1|MAP2K2,,,MEK inhibitor,MAPK (RAF→MEK)
+832,BIBU-1361,Preclinical,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+833,BIBX-1382,Phase 1,EGFR inhibitor,EGFR|ERBB2,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+850,binimetinib,Launched,MEK inhibitor,MAP2K1|MAP2K2,oncology,melanoma,MEK inhibitor,MAPK (RAF→MEK)
+860,bisantrene,Phase 2,topoisomerase inhibitor,,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+875,BIX-02188,Preclinical,MEK inhibitor,MAP2K5,,,MEK inhibitor,MAPK (RAF→MEK)
+876,BIX-02189,Preclinical,MEK inhibitor,MAP2K5|MAPK7,,,MEK inhibitor,MAPK (RAF→MEK)
+880,bleomycetin,Launched,EGFR expression inhibitor,,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+883,BLU9931,Preclinical,FGFR inhibitor,FGFR4,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+903,BMS-599626,Phase 1,EGFR inhibitor|protein tyrosine kinase inhibitor,EGFR|ERBB2|ERBB4,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+908,BMS-690514,Phase 2,EGFR inhibitor|VEGFR inhibitor,EGFR|ERBB2|FLT3|KDR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+912,BMS-777607,Phase 1/Phase 2,AXL kinase inhibitor|c-Met inhibitor|FLT3 inhibitor|hepatocyte growth factor receptor inhibitor|macrophage migration inhibiting factor inhibitor|tyrosine kinase inhibitor,AXL|MERTK|MET|MST1R|TYRO3,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+916,BMS-817378,Phase 1,c-Met inhibitor|VEGFR inhibitor,KDR|MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+931,BNC105,Phase 2,tubulin polymerization inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+957,brigatinib,Launched,ALK tyrosine kinase receptor inhibitor|EGFR inhibitor,ALK|EGFR,oncology,non-small cell lung cancer (NSCLC),EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+962,brivanib,Phase 3,FGFR inhibitor|VEGFR inhibitor,CYP3A4|FGFR1|FLT1|KCNH2|KDR,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+963,brivanib-alaninate,Phase 3,FGFR inhibitor|VEGFR inhibitor,FGFR3,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1015,buparlisib,Phase 3,PI3K inhibitor,PIK3CA|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+1032,butein,Preclinical,EGFR inhibitor|SRC inhibitor,ACE,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1057,BYK-204165,Preclinical,PARP inhibitor,PARP1,,,PARP inhibitor,DNA damage & repair
+1064,cabazitaxel,Launched,microtubule inhibitor,TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,oncology,prostate cancer,Microtubule inhibitor,Mitotic / cell-cycle
+1089,camptothecin,Phase 3,topoisomerase inhibitor,TOP1,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+1095,canertinib,Phase 3,EGFR inhibitor,AKT1|EGFR|ERBB2|ERBB4,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1100,capecitabine,Launched,DNA synthesis inhibitor|thymidylate synthase inhibitor,TYMS,oncology,breast cancer|colorectal cancer,Thymidylate synthase inhibitor,DNA damage & repair
+1119,carbendazim,Launched,microtubule inhibitor|tubulin polymerization inhibitor,TP53|TUBB,infectious disease,fungicide,Microtubule inhibitor,Mitotic / cell-cycle
+1127,carboplatin,Launched,DNA alkylating agent|DNA inhibitor,,oncology,ovarian cancer,Alkylating / Cross-linking agent,DNA damage & repair
+1139,carmofur,Launched,thymidylate synthase inhibitor,TYMS,oncology,breast cancer|colorectal cancer,Thymidylate synthase inhibitor,DNA damage & repair
+1142,carmustine,Launched,DNA alkylating agent|DNA inhibitor,GSR,hematologic malignancy|oncology,non-Hodgkin lymphoma (NHL)|Hodgkin's lymphoma|multiple myeloma|glioblastoma|brainstem glioma|medulloblastoma|astrocytoma|ependymoma,Alkylating / Cross-linking agent,DNA damage & repair
+1157,catharanthine,Preclinical,tubulin polymerization inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+1159,CAY10505,Preclinical,PI3K inhibitor,PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+1167,CC-115,Phase 2,DNA protein kinase inhibitor|mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+1168,CC-223,Phase 2,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+1183,CCT196969,Preclinical,RAF inhibitor,,,,RAF inhibitor,MAPK (RAF→MEK)
+1193,cediranib,Phase 3,KIT inhibitor|VEGFR inhibitor,CSF1R|FLT1|FLT3|FLT4|KDR|KIT|PDGFRA|PDGFRB,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+1250,CEP-32496,Phase 1/Phase 2,RAF inhibitor,BRAF|RAF1,,,RAF inhibitor,MAPK (RAF→MEK)
+1252,CEP-37440,Phase 1,ALK tyrosine kinase receptor inhibitor,ALK,,,ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1262,ceritinib,Launched,ALK tyrosine kinase receptor inhibitor,ALK|FLT3|IGF1R|INSR|TSSK1B,oncology,non-small cell lung cancer (NSCLC),ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1272,cevipabulin,Phase 1,microtubule stimulant|tubulin polymerization inhibitor,TUBB,,,Microtubule inhibitor,Mitotic / cell-cycle
+1291,CGP-52411,Preclinical,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1292,CGP-53353,Preclinical,EGFR inhibitor|PKC inhibitor,EGFR|PRKCB,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1311,chidamide,Launched,HDAC inhibitor,HDAC10|HDAC3,hematologic malignancy,peripheral T-cell lymphoma (PTCL),HDAC inhibitor,HDAC inhibitor
+1372,chrysophanic-acid,Preclinical,EGFR inhibitor,EGFR|MTOR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1375,CH5132799,Phase 1,PI3K inhibitor,MTOR|PIK3CA|PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+1422,cinoxacin,Launched,topoisomerase inhibitor,,infectious disease,urinary tract infections,Topoisomerase inhibitor,Topoisomerase inhibitor
+1443,cisplatin,Launched,DNA alkylating agent|DNA synthesis inhibitor,XIAP,oncology,testicular carcinoma|ovarian cancer|bladder cancer,Alkylating / Cross-linking agent,DNA damage & repair
+1445,citarinostat,Phase 1,HDAC inhibitor,,,,HDAC inhibitor,HDAC inhibitor
+1452,CK-101,Preclinical,EGFR inhibitor,,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1518,CNX-2006,Preclinical,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1523,cobimetinib,Launched,MEK inhibitor,MAP2K1,oncology,melanoma,MEK inhibitor,MAPK (RAF→MEK)
+1528,colchicine,Launched,microtubule inhibitor,GLRA1|GLRA2|TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,rheumatology|endocrinology,gout|fever,Microtubule inhibitor,Mitotic / cell-cycle
+1534,combretastatin-A-4,Phase 2,tubulin polymerization inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+1540,copanlisib,Launched,PI3K inhibitor,PIK3CA|PIK3CB|PIK3CD|PIK3CG,hematologic malignancy,follicular lymphoma,PI3K inhibitor,PI3K–AKT–mTOR
+1566,CP-724714,Phase 2,EGFR inhibitor|protein tyrosine kinase inhibitor,ERBB2,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1596,crizotinib,Launched,ALK tyrosine kinase receptor inhibitor,ALK|MET,oncology,non-small cell lung cancer (NSCLC),ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1599,crolibulin,Phase 1/Phase 2,tubulin polymerization inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+1616,CUDC-101,Phase 1,EGFR inhibitor,EGFR|ERBB2,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1618,CUDC-907,Phase 2,PI3K inhibitor,HDAC2|PIK3R1,,,PI3K inhibitor,PI3K–AKT–mTOR
+1629,CXD101,Phase 1/Phase 2,HDAC inhibitor,,,,HDAC inhibitor,HDAC inhibitor
+1645,cyclophosphamide,Launched,DNA alkylating agent,CYP2A6|CYP2B6|CYP2C18|CYP2C19|CYP2C8|CYP2C9|CYP2D6|CYP3A4|CYP3A5|CYP3A7,hematologic malignancy|oncology,Hodgkin's lymphoma|small lymphocytic lymphoma (SLL)|breast cancer|neuroblastoma|Burkitt's lymphoma|multiple myeloma|chronic lymphocytic leukemia (CLL)|acute myeloid leukemia (AML)|acute lymphoblastic leukemia (ALL)|chronic myeloid leukemia (CML)|true histiocytic lymphoma (THL)|retinoblastoma|ovarian cancer,Alkylating / Cross-linking agent,DNA damage & repair
+1666,CYT-997,Phase 2,tubulin polymerization inhibitor,TUBB,,,Microtubule inhibitor,Mitotic / cell-cycle
+1670,cytochalasin-B,Phase 2,microtubule inhibitor,ACTB,,,Microtubule inhibitor,Mitotic / cell-cycle
+1675,CZC24832,Preclinical,PI3K inhibitor,PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+1691,D-64131,Preclinical,microtubule inhibitor,TUBB,,,Microtubule inhibitor,Mitotic / cell-cycle
+1696,dabrafenib,Launched,RAF inhibitor,BRAF|LIMK1|NEK11|RAF1|SIK1,oncology,melanoma,RAF inhibitor,MAPK (RAF→MEK)
+1697,dacarbazine,Launched,DNA alkylating agent,PGD|POLA2,oncology|hematologic malignancy,melanoma|Hodgkin's lymphoma,Alkylating / Cross-linking agent,DNA damage & repair
+1698,dacinostat,Phase 1,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC4|HDAC5|HDAC6|HDAC7|HDAC8|HDAC9,,,HDAC inhibitor,HDAC inhibitor
+1700,dacomitinib,Launched,EGFR inhibitor,EGFR|ERBB2|ERBB4,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1740,daunorubicin,Launched,RNA synthesis inhibitor|topoisomerase inhibitor,TOP2A|TOP2B,hematologic malignancy,acute myeloid leukemia (AML)|acute lymphoblastic leukemia (ALL),Topoisomerase inhibitor,Topoisomerase inhibitor
+1768,deforolimus,Phase 3,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+1828,dexrazoxane,Launched,chelating agent|topoisomerase inhibitor,TOP2A|TOP2B,cardiology,cardiomyopathy,Topoisomerase inhibitor,Topoisomerase inhibitor
+1841,dianhydrogalactitol,Phase 3,DNA alkylating agent,,,,Alkylating / Cross-linking agent,DNA damage & repair
+1902,dimesna,Phase 3,tubulin polymerization inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+1951,DMH1,Preclinical,ALK tyrosine kinase receptor inhibitor,ACVR1,,,ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1952,DMH4,Preclinical,VEGFR inhibitor,KDR,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+1961,docetaxel,Launched,tubulin polymerization inhibitor,BCL2|MAP2|MAP4|MAPT|NR1I2|TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,oncology,breast cancer|non-small cell lung cancer (NSCLC)|prostate cancer|gastric adenocarcinoma|head and neck squamous cell carcinoma (HNSCC),Microtubule inhibitor,Mitotic / cell-cycle
+1970,dolastatin-10,Phase 2,tubulin polymerization inhibitor,TUBB,,,Microtubule inhibitor,Mitotic / cell-cycle
+1985,dovitinib,Phase 3,EGFR inhibitor|FGFR inhibitor|FLT3 inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,CSF1R|EGFR|FGFR1|FGFR2|FGFR3|FLT1|FLT3|FLT4|INSR|KDR|KIT|PDGFRA|PDGFRB,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+1990,doxifluridine,Launched,thymidylate synthase inhibitor,TYMS,oncology,colorectal cancer,Thymidylate synthase inhibitor,DNA damage & repair
+1992,doxorubicin,Launched,topoisomerase inhibitor,TOP2A,hematologic malignancy|oncology,acute lymphoblastic leukemia (ALL)|acute myeloid leukemia (AML)|Wilm's tumor|breast cancer|ovarian cancer|Hodgkin's lymphoma|bladder cancer|multiple myeloma,Topoisomerase inhibitor,Topoisomerase inhibitor
+2002,DR-2313,Preclinical,PARP inhibitor,PARP1|PARP3,,,PARP inhibitor,DNA damage & repair
+2015,droxinostat,Preclinical,HDAC inhibitor,HDAC6|HDAC8,,,HDAC inhibitor,HDAC inhibitor
+2024,duvelisib,Launched,PI3K inhibitor,PIK3CA|PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+2039,EB-47,Preclinical,PARP inhibitor,PARP1,,,PARP inhibitor,DNA damage & repair
+2057,EDO-S101,Phase 1/Phase 2,HDAC inhibitor,,,,HDAC inhibitor,HDAC inhibitor
+2074,EGF816,Phase 2,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2090,elemene,Phase 3,VEGFR inhibitor,,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+2106,EMD-1214063,Phase 2,hepatocyte growth factor receptor inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2128,encorafenib,Launched,RAF inhibitor,BRAF,oncology,melanoma,RAF inhibitor,MAPK (RAF→MEK)
+2129,endo-IWR-1,Preclinical,PARP inhibitor,TNKS|TNKS2,,,PARP inhibitor,DNA damage & repair
+2136,ENMD-2076,Phase 2,Aurora kinase inhibitor|FLT3 inhibitor|VEGFR inhibitor,AURKA|FLT3|KDR|PDGFRA|PTK2|SRC,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+2138,enoxacin,Launched,topoisomerase inhibitor,TOP2A,infectious disease,urinary tract infections|gonorrhea,Topoisomerase inhibitor,Topoisomerase inhibitor
+2144,entasobulin,Preclinical,tubulin polymerization inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+2146,entinostat,Phase 3,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC9,,,HDAC inhibitor,HDAC inhibitor
+2147,entrectinib,Launched,ALK tyrosine kinase receptor inhibitor|proto-oncogene tyrosine protein kinase inhibitor,ALK|NTRK1|NTRK2|NTRK3|ROS1,oncology,non-small cell lung cancer (NSCLC),ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2167,epirubicin,Launched,topoisomerase inhibitor,CHD1|TOP2A,oncology,breast cancer,Topoisomerase inhibitor,Topoisomerase inhibitor
+2172,epothilone-A,Preclinical,microtubule stabilizing agent,,,,Microtubule inhibitor,Mitotic / cell-cycle
+2173,epothilone-B,Phase 3,microtubule stabilizing agent|tubulin polymerization inhibitor,TUBB,,,Microtubule inhibitor,Mitotic / cell-cycle
+2174,epothilone-D,Phase 2,microtubule stabilizing agent|tubulin polymerization inhibitor,TUBB,,,Microtubule inhibitor,Mitotic / cell-cycle
+2195,erbstatin-analog,Preclinical,EGFR inhibitor|tyrosine kinase inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2197,erdafitinib,Launched,FGFR inhibitor,FGFR1|FGFR2|FGFR3|FGFR4,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2203,eribulin,Launched,microtubule inhibitor,,oncology,breast cancer,Microtubule inhibitor,Mitotic / cell-cycle
+2205,erlotinib,Launched,EGFR inhibitor,EGFR|NR1I2,oncology,non-small cell lung cancer (NSCLC)|pancreatic cancer,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2232,estramustine,Launched,DNA alkylating agent,ESR1|ESR2|MAP1A|MAP2,oncology,prostate cancer,Alkylating / Cross-linking agent,DNA damage & repair
+2233,estramustine-phosphate,Launched,DNA synthesis inhibitor|microtubule inhibitor,ESR1|ESR2|MAP1A|MAP2,oncology,prostate cancer,Microtubule inhibitor,Mitotic / cell-cycle
+2285,etoposide,Launched,topoisomerase inhibitor,TOP2A|TOP2B,oncology,non-small cell lung cancer (NSCLC),Topoisomerase inhibitor,Topoisomerase inhibitor
+2286,etoposide-phosphate,Launched,topoisomerase inhibitor,TOP2A,oncology,testicular carcinoma|small cell lung cancer,Topoisomerase inhibitor,Topoisomerase inhibitor
+2290,ETP-45658,Preclinical,PI3K inhibitor,PIK3CA|PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+2305,everolimus,Launched,mTOR inhibitor,MTOR,oncology|neurology/psychiatry|genetics|urology,breast cancer|neuroendocrine tumors of pancreatic origin (PNET)|renal cell carcinoma (RCC)|subependymal giant cell astrocytoma (SEGA)|tuberous sclerosis complex (TSC)|renal angiomyolipoma,mTOR inhibitor,PI3K–AKT–mTOR
+2315,exatecan-mesylate,Phase 3,topoisomerase inhibitor,TOP1,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+2328,E7449,Phase 2,PARP inhibitor,PARP1|PARP2|TNKS|TNKS2,,,PARP inhibitor,DNA damage & repair
+2329,E7820,Phase 2,angiogenesis inhibitor,,,,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+2359,fenbendazole,Launched,tubulin polymerization inhibitor,TUBB,infectious disease,gastrointestinal parasites|gastrointestinal roundworms,Microtubule inhibitor,Mitotic / cell-cycle
+2379,FERb-033,Preclinical,EGFR inhibitor,ERBB2,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2423,fleroxacin,Launched,topoisomerase inhibitor,TOP2A,infectious disease|gastroenterology,gonorrhea|enteritis|diarrhea|respiratory tract infections,Topoisomerase inhibitor,Topoisomerase inhibitor
+2434,flubendazole,Launched,tubulin polymerization inhibitor,TUBB,infectious disease,gastrointestinal parasites,Microtubule inhibitor,Mitotic / cell-cycle
+2446,flumequine,Launched,topoisomerase inhibitor,,infectious disease,urinary tract infections,Topoisomerase inhibitor,Topoisomerase inhibitor
+2485,foretinib,Phase 2,VEGFR inhibitor,FLT1|FLT4|KDR|MET,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+2494,fosbretabulin,Phase 3,tubulin polymerization inhibitor|VE-cadherin antagonist,CDH5,,,Microtubule inhibitor,Mitotic / cell-cycle
+2522,fruquintinib,Launched,VEGFR inhibitor,KDR,oncology,colorectal cancer,VEGFR inhibitor,Angiogenesis / VEGF axis
+2524,ftorafur,Launched,thymidylate synthase inhibitor,TYMS,oncology,colorectal cancer,Thymidylate synthase inhibitor,DNA damage & repair
+2541,futibatinib,Phase 3,FGFR inhibitor,,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2576,garenoxacin,Launched,topoisomerase inhibitor,TOP2A,infectious disease,respiratory tract infections,Topoisomerase inhibitor,Topoisomerase inhibitor
+2584,GDC-0077,Phase 1,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+2585,GDC-0084,Phase 2,mTOR inhibitor|PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+2589,GDC-0623,Phase 1,MEK inhibitor,,,,MEK inhibitor,MAPK (RAF→MEK)
+2592,GDC-0879,Preclinical,RAF inhibitor,BRAF,,,RAF inhibitor,MAPK (RAF→MEK)
+2594,GDC-0941,Phase 2,PI3K inhibitor,PIK3CA|PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+2595,GDC-0980,Phase 2,mTOR inhibitor|PI3K inhibitor,FGR|MAP3K9|MTOR|PIK3CA|PIK3CB|PIK3CD|PIK3CG|SYK,,,PI3K inhibitor,PI3K–AKT–mTOR
+2599,gefitinib,Launched,EGFR inhibitor,EGFR,oncology,non-small cell lung cancer (NSCLC),EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2614,genz-644282,Phase 1,topoisomerase inhibitor,TOP1,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+2617,gepotidacin,Phase 2,topoisomerase inhibitor,,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+2631,ginsenoside-RE3,Launched,angiogenesis inhibitor|apoptosis stimulant,KCNH2,,,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+2632,givinostat,Phase 3,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC4|HDAC5|HDAC6|HDAC7|HDAC8|HDAC9,,,HDAC inhibitor,HDAC inhibitor
+2670,golvatinib,Phase 2,VEGFR inhibitor,KDR|MET,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+2694,griseofulvin,Launched,tubulin polymerization inhibitor,KRT12,infectious disease,ringworm|tinea pedis,Microtubule inhibitor,Mitotic / cell-cycle
+2710,GSK1059615,Phase 1,PI3K inhibitor,PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+2719,GSK2126458,Phase 1,mTOR inhibitor|PI3K inhibitor,MTOR|PIK3CA|PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+2732,GSK2636771,Phase 2,PI3K inhibitor,PIK3CB,,,PI3K inhibitor,PI3K–AKT–mTOR
+2744,GSK3117391,Phase 1/Phase 2,HDAC inhibitor,,,,HDAC inhibitor,HDAC inhibitor
+2787,GW-5074,Phase 1/Phase 2,leucine rich repeat kinase inhibitor|RAF inhibitor,NTRK1|RAF1,,,RAF inhibitor,MAPK (RAF→MEK)
+2789,GW-583340,Preclinical,EGFR inhibitor,EGFR|ERBB2,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2793,GW-788388,Preclinical,ALK tyrosine kinase receptor inhibitor,LCK|MAPK14|TGFBR1,,,ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2833,hepsulfam,Preclinical,DNA cross-linking,,,,Alkylating / Cross-linking agent,DNA damage & repair
+2835,HER2-Inhibitor-1,Preclinical,EGFR inhibitor,,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2856,HKI-357,Phase 1,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2916,hypoxanthine,Preclinical,PARP inhibitor,PNP,,,PARP inhibitor,DNA damage & repair
+2962,icotinib,Launched,EGFR inhibitor,EGFR,oncology,non-small cell lung cancer (NSCLC),EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+2968,idarubicin,Launched,topoisomerase inhibitor,TOP2A,hematologic malignancy,acute myeloid leukemia (AML),Topoisomerase inhibitor,Topoisomerase inhibitor
+2972,idelalisib,Launched,PI3K inhibitor,PIK3CA|PIK3CB|PIK3CD|PIK3CG,hematologic malignancy,chronic lymphocytic leukemia (CLL),PI3K inhibitor,PI3K–AKT–mTOR
+2983,ifosfamide,Launched,DNA alkylating agent,CYP2A6|CYP2B6|CYP2C18|CYP2C19|CYP2C8|CYP2C9|CYP3A4|CYP3A5|CYP3A7|PTGS1,oncology|urology,testicular carcinoma|hemorrhagic cystitis,Alkylating / Cross-linking agent,DNA damage & repair
+3016,INC-280,Phase 3,c-Met inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+3028,indibulin,Phase 1/Phase 2,tubulin polymerization inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+3048,iniparib,Phase 3,PARP inhibitor,PARP1,,,PARP inhibitor,DNA damage & repair
+3080,IPI549,Phase 2,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+3089,irinotecan,Launched,topoisomerase inhibitor,TOP1|TOP1MT,oncology,colorectal cancer,Topoisomerase inhibitor,Topoisomerase inhibitor
+3152,ixabepilone,Launched,microtubule stabilizing agent,TUBB,oncology,breast cancer,Microtubule inhibitor,Mitotic / cell-cycle
+3168,JNJ-26481585,Phase 2,HDAC inhibitor,HDAC1|HDAC10|HDAC11|HDAC2|HDAC3|HDAC4|HDAC5|HDAC6|HDAC7|HDAC8|HDAC9|MDM2,,,HDAC inhibitor,HDAC inhibitor
+3173,JNJ-38877618,Phase 1,c-Met inhibitor,,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+3211,karenitecin,Phase 3,topoisomerase inhibitor,TOP1,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+3228,KG-5,Preclinical,RAF inhibitor,BRAF|FLT3|KIT|PDGFRB,,,RAF inhibitor,MAPK (RAF→MEK)
+3235,KI-8751,Preclinical,KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,KDR,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+3252,KRN-633,Preclinical,VEGFR inhibitor,FLT1|FLT4|KDR,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+3255,KU-0063794,Preclinical,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+3263,KX2-391,Phase 3,SRC inhibitor|tubulin polymerization inhibitor,SRC,,,Microtubule inhibitor,Mitotic / cell-cycle
+3334,lapatinib,Launched,EGFR inhibitor,EGFR|ERBB2,oncology,breast cancer,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+3367,leniolisib,Phase 2/Phase 3,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+3368,lenvatinib,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,FLT4|KDR,oncology,thyroid cancer,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+3419,licochalcone-A,Phase 3,topoisomerase inhibitor,PTPN1,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+3426,lifirafenib,Phase 1/Phase 2,RAF inhibitor,,,,RAF inhibitor,MAPK (RAF→MEK)
+3439,linifanib,Phase 3,PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,CSF1|CSF1R|FLT1|FLT3|FLT4|KDR|KIT|PDGFRB|RET|TEK,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+3463,LMK-235,Preclinical,HDAC inhibitor,HDAC4|HDAC5,,,HDAC inhibitor,HDAC inhibitor
+3488,lorlatinib,Launched,ALK tyrosine kinase receptor inhibitor,ALK,oncology,non-small cell lung cancer (NSCLC),ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+3509,lucitanib,Phase 2,FGFR inhibitor|VEGFR inhibitor,FGFR1|FLT1|KDR|KIT|PDGFRA|PDGFRB|RET,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+3525,LXH254,Phase 1,RAF inhibitor,,,,RAF inhibitor,MAPK (RAF→MEK)
+3557,LY2801653,Phase 2,MET inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+3564,LY294002,Preclinical,DNA dependent protein kinase inhibitor|mTOR inhibitor|phosphodiesterase inhibitor|PI3K inhibitor|PLK inhibitor,AKT1|CHEK1|GSK3B|LCK|MAPK1|MAPK11|MAPK12|MAPK14|MAPK8|MTOR|PIK3CA|PIK3CB|PIK3CD|PIK3CG|PIM1|PLK1|PRKCA|PRKDC|ROCK1|RPS6KB1|SGK1,,,PI3K inhibitor,PI3K–AKT–mTOR
+3567,LY3009120,Phase 1,RAF inhibitor,BRAF|RAF1,,,RAF inhibitor,MAPK (RAF→MEK)
+3568,LY3023414,Phase 2,mTOR inhibitor|PI3K inhibitor,MTOR,,,PI3K inhibitor,PI3K–AKT–mTOR
+3569,LY303511,Preclinical,casein kinase inhibitor|mTOR inhibitor|PI3K inhibitor,BRD2|BRD3|BRD4,,,PI3K inhibitor,PI3K–AKT–mTOR
+3589,M-344,Preclinical,HDAC inhibitor,HDAC8,,,HDAC inhibitor,HDAC inhibitor
+3629,MC1568,Preclinical,HDAC inhibitor,HDAC2,,,HDAC inhibitor,HDAC inhibitor
+3639,mebendazole,Launched,tubulin polymerization inhibitor,TUBA1A|TUBB|TUBB4B,infectious disease,pinworm|whipworm|hookworm|ascariasis,Microtubule inhibitor,Mitotic / cell-cycle
+3668,MEK1-2-inhibitor,Preclinical,MEK inhibitor,MAP2K2,,,MEK inhibitor,MAPK (RAF→MEK)
+3676,melphalan,Launched,DNA alkylating agent|DNA inhibitor,,hematologic malignancy,multiple myeloma,Alkylating / Cross-linking agent,DNA damage & repair
+3698,merbarone,Phase 2,topoisomerase inhibitor,TOP2A,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+3702,Merck60,Preclinical,HDAC inhibitor,HDAC1|HDAC2,,,HDAC inhibitor,HDAC inhibitor
+3706,mertansine,Phase 2,microtubule inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+3790,ME0328,Preclinical,PARP inhibitor,PARP3,,,PARP inhibitor,DNA damage & repair
+3794,MGCD-265,Preclinical,VEGFR inhibitor,AXL|MET,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+3835,mitomycin-C,Launched,DNA alkylating agent|DNA synthesis inhibitor,,oncology,pancreatic cancer|gastric adenocarcinoma,Alkylating / Cross-linking agent,DNA damage & repair
+3838,mitoxantrone,Launched,topoisomerase inhibitor,TOP2A,neurology/psychiatry|oncology|hematologic malignancy,multiple sclerosis|prostate cancer|acute myeloid leukemia (AML),Topoisomerase inhibitor,Topoisomerase inhibitor
+3841,mivobulin,Phase 2,microtubule inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+3859,MK-2461,Phase 1/Phase 2,FGFR inhibitor|VEGFR inhibitor,FGFR1|FGFR2|FGFR3|FLT1|FLT3|FLT4|KDR|MERTK|MET|MST1R|NTRK1|NTRK2|PDGFRB,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+3870,MK-8033,Phase 1,c-Met inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+3878,MLN0128,Phase 2,mTOR inhibitor,MTOR|PIK3CA|PIK3CD|PIK3CG,,,mTOR inhibitor,PI3K–AKT–mTOR
+3879,MLN1117,Phase 2,PI3K inhibitor,PIK3CA,,,PI3K inhibitor,PI3K–AKT–mTOR
+3880,MLN2480,Phase 1/Phase 2,RAF inhibitor,,,,RAF inhibitor,MAPK (RAF→MEK)
+3903,ML347,Preclinical,ALK tyrosine kinase receptor inhibitor,ACVR1|ACVRL1|BMPR1A,,,ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+3906,ML786,Preclinical,RAF inhibitor,BRAF|RAF1,,,RAF inhibitor,MAPK (RAF→MEK)
+3916,mocetinostat,Phase 2,HDAC inhibitor,HDAC1|HDAC11|HDAC2|HDAC3,,,HDAC inhibitor,HDAC inhibitor
+3930,monepantel,Preclinical,mTOR inhibitor,,,,mTOR inhibitor,PI3K–AKT–mTOR
+3948,motesanib,Phase 3,KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,FLT1|FLT4|KDR|KIT,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+4041,naquotinib,Phase 3,EGFR inhibitor,,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4085,nemorubicin,Phase 2,topoisomerase inhibitor,TOP1|TOP2A,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+4093,neratinib,Launched,EGFR inhibitor,EGFR|ERBB2|KDR,oncology,breast cancer,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4103,nexturastat-A,Preclinical,HDAC inhibitor,HDAC1|HDAC6,,,HDAC inhibitor,HDAC inhibitor
+4145,nimustine,Launched,DNA alkylating agent,,,,Alkylating / Cross-linking agent,DNA damage & repair
+4148,nintedanib,Launched,FGFR inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,FGFR1|FGFR2|FGFR3|FGFR4|FLT1|FLT4|KDR|PDGFRA|PDGFRB,pulmonary,idiopathic pulmonary fibrosis (IPF),FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4149,niraparib,Launched,PARP inhibitor,PARP1,oncology,primary peritoneal cancer (PPC),PARP inhibitor,DNA damage & repair
+4186,nobiletin,Preclinical,MEK inhibitor,MAP2K1,,,MEK inhibitor,MAPK (RAF→MEK)
+4187,nocodazole,Preclinical,tubulin polymerization inhibitor,HPGDS,,,Microtubule inhibitor,Mitotic / cell-cycle
+4188,nolatrexed,Phase 3,thymidylate synthase inhibitor,TYMS,,,Thymidylate synthase inhibitor,DNA damage & repair
+4208,noscapine,Launched,bradykinin receptor antagonist|tubulin polymerization inhibitor,SIGMAR1,pulmonary,cough suppressant,Microtubule inhibitor,Mitotic / cell-cycle
+4232,NSC-3852,Preclinical,HDAC inhibitor,HDAC1,,,HDAC inhibitor,HDAC inhibitor
+4249,NU-1025,Preclinical,PARP inhibitor,PARP1,,,PARP inhibitor,DNA damage & repair
+4252,NU-7026,Preclinical,DNA dependent protein kinase inhibitor|mTOR inhibitor|PI3K inhibitor,PRKDC,,,PI3K inhibitor,PI3K–AKT–mTOR
+4260,NVP-BEZ235,Phase 3,mTOR inhibitor|PI3K inhibitor,ATR|MTOR|PIK3CA|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+4261,NVP-BGJ398,Phase 3,FGFR inhibitor,FGFR1|FGFR2|FGFR3|FGFR4|KDR,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4264,NVP-BVU972,Preclinical,MET inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4268,NVP-TAE684,Preclinical,ALK tyrosine kinase receptor inhibitor,ALK|INSR,,,ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4312,olaparib,Launched,PARP inhibitor,PARP1|PARP2,oncology,ovarian cancer,PARP inhibitor,DNA damage & repair
+4323,olmutinib,Launched,Bruton's tyrosine kinase (BTK) inhibitor|EGFR inhibitor,BTK|EGFR,oncology,non-small cell lung cancer (NSCLC),EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4336,ombrabulin,Phase 3,tubulin polymerization inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+4361,orantinib,Phase 3,FGFR inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,AURKA|AURKB|EGFR|FGFR1|FGFR2|KDR|PDGFRA|PDGFRB,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4384,OSI-027,Phase 1,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+4385,OSI-420,Preclinical,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4386,OSI-930,Phase 1,KIT inhibitor|VEGFR inhibitor,FLT1|KDR|KIT,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+4388,osimertinib,Launched,EGFR inhibitor,EGFR,oncology,non-small cell lung cancer (NSCLC),EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4415,oxibendazole,Launched,tubulin polymerization inhibitor,TUBB|TUBB4B,infectious disease,strongyles,Microtubule inhibitor,Mitotic / cell-cycle
+4450,paclitaxel,Launched,tubulin polymerization inhibitor,BCL2|MAP2|MAP4|MAPT|NR1I2|TLR4|TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,oncology,ovarian cancer|breast cancer|non-small cell lung cancer (NSCLC),Microtubule inhibitor,Mitotic / cell-cycle
+4459,palifosfamide,Phase 3,DNA alkylating agent,,,,Alkylating / Cross-linking agent,DNA damage & repair
+4465,palomid-529,Phase 1,AKT inhibitor|mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+4471,pamiparib,Phase 3,PARP inhibitor,,,,PARP inhibitor,DNA damage & repair
+4474,panobinostat,Launched,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC4|HDAC6|HDAC7|HDAC8|HDAC9,hematologic malignancy,multiple myeloma,HDAC inhibitor,HDAC inhibitor
+4486,parbendazole,Preclinical,tubulin polymerization inhibitor,TUBB,,,Microtubule inhibitor,Mitotic / cell-cycle
+4497,parsaclisib,Phase 2,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+4504,pazopanib,Launched,KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,CSF1R|FGF1|FGFR1|FGFR3|FLT1|FLT4|ITK|KDR|KIT|PDGFRA|PDGFRB|SH2B3,oncology,renal cell carcinoma (RCC)|soft tissue sarcoma (STS),VEGFR inhibitor,Angiogenesis / VEGF axis
+4505,pazufloxacin,Launched,topoisomerase inhibitor,,infectious disease,pneumonia|peritonitis|bacterial septicemia,Topoisomerase inhibitor,Topoisomerase inhibitor
+4509,PCI-24781,Phase 3,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC6,,,HDAC inhibitor,HDAC inhibitor
+4512,PCI-34051,Preclinical,HDAC inhibitor,HDAC1|HDAC10|HDAC6|HDAC8,,,HDAC inhibitor,HDAC inhibitor
+4514,PD-0325901,Phase 2,MEK inhibitor,MAP2K1,,,MEK inhibitor,MAPK (RAF→MEK)
+4519,PD-153035,Phase 1,EGFR inhibitor,EGFR|KDR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4521,PD-158780,Preclinical,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4523,PD-161570,Preclinical,FGFR inhibitor,FGFR1,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4527,PD-168393,Preclinical,EGFR inhibitor,EGFR|ERBB2|SRC,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4529,PD-173074,Preclinical,FGFR inhibitor|VEGFR inhibitor,FGFR1|FGFR2|FGFR3|FGFR4|FLT1|FLT4|KDR|PDGFRA|PDGFRB,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4531,PD-184352,Phase 2,MEK inhibitor,MAP2K1|MAP3K1|MAP3K2,,,MEK inhibitor,MAPK (RAF→MEK)
+4532,PD-198306,Preclinical,MAP kinase inhibitor|MEK inhibitor,MAP2K1|MAP2K2,,,MEK inhibitor,MAPK (RAF→MEK)
+4533,PD-318088,Preclinical,MEK inhibitor,,,,MEK inhibitor,MAPK (RAF→MEK)
+4536,PD-98059,Preclinical,MEK inhibitor,AKT1|CHEK1|GSK3B|LCK|MAP2K1|MAPK1|MAPK11|MAPK12|MAPK14|MAPK8|PRKCA|RAF1|ROCK1|RPS6KB1|SGK1,,,MEK inhibitor,MAPK (RAF→MEK)
+4544,pelitinib,Phase 2,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4547,pemetrexed,Launched,dihydrofolate reductase inhibitor|thymidylate synthase inhibitor,ATIC|DHFR|GART|TYMS,oncology,non-small cell lung cancer (NSCLC)|mesothelioma,Thymidylate synthase inhibitor,DNA damage & repair
+4596,PF-04217903,Phase 1,c-Met inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4601,PF-04691502,Phase 2,mTOR inhibitor|PI3K inhibitor,MTOR|PIK3CA,,,PI3K inhibitor,PI3K–AKT–mTOR
+4609,PF-05212384,Phase 2,mTOR inhibitor|PI3K inhibitor,MTOR|PIK3CA,,,PI3K inhibitor,PI3K–AKT–mTOR
+4618,PF-06463922,Launched,ALK tyrosine kinase receptor inhibitor,ALK|FES|ROS1,oncology,non-small cell lung cancer (NSCLC),ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4621,PF-06747775,Phase 2,EGFR inhibitor,,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4653,PHA-665752,Preclinical,c-Met inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4687,phenylbutyrate,Launched,HDAC inhibitor,HDAC1,metabolism,urea cycle disorders,HDAC inhibitor,HDAC inhibitor
+4708,PI-103,Preclinical,mTOR inhibitor|PI3K inhibitor,MTOR|PIK3CA|PIK3CB|PIK3CD|PIK3CG|PRKDC,,,PI3K inhibitor,PI3K–AKT–mTOR
+4709,PI-828,Preclinical,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+4726,PIK-293,Preclinical,PI3K inhibitor,PIK3CA|PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+4727,PIK-294,Preclinical,PI3K inhibitor,PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+4728,PIK-75,Preclinical,DNA protein kinase inhibitor|PI3K inhibitor,PIK3CA|PIK3CB|PIK3CD|PIK3CG|PRKDC,,,PI3K inhibitor,PI3K–AKT–mTOR
+4729,PIK-93,Preclinical,PI3K inhibitor,PI4KB|PIK3C3|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+4732,pilaralisib,Phase 2,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+4755,pipemidic-acid,Launched,topoisomerase inhibitor,,infectious disease,gram-negative bacterial infections,Topoisomerase inhibitor,Topoisomerase inhibitor
+4765,pipobroman,Launched,DNA alkylating agent,,hematology,polycythemia vera|thrombocythemia,Alkylating / Cross-linking agent,DNA damage & repair
+4770,pirarubicin,Launched,topoisomerase inhibitor,TOP2A,oncology,breast cancer,Topoisomerase inhibitor,Topoisomerase inhibitor
+4793,pivanex,Phase 2,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC8,,,HDAC inhibitor,HDAC inhibitor
+4795,pixantrone,Launched,topoisomerase inhibitor,TOP2A,hematologic malignancy,non-Hodgkin lymphoma (NHL),Topoisomerase inhibitor,Topoisomerase inhibitor
+4797,PI3K-IN-2,Phase 2,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+4798,PI3Kd-IN-2,Preclinical,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+4800,PJ-34,Preclinical,PARP inhibitor,EEF2|PARP1|PARP15|PARP3,,,PARP inhibitor,DNA damage & repair
+4804,PKI-166,Phase 1,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4805,PKI-179,Phase 1,mTOR inhibitor|PI3K inhibitor,MTOR,,,PI3K inhibitor,PI3K–AKT–mTOR
+4809,plinabulin,Phase 3,tubulin polymerization inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+4813,PLX4720,Preclinical,RAF inhibitor,BRAF|KDR,,,RAF inhibitor,MAPK (RAF→MEK)
+4827,podophyllotoxin,Launched,microtubule inhibitor|tubulin polymerization inhibitor,IGF1R|TOP2A|TUBA4A|TUBB,infectious disease,genital warts,Microtubule inhibitor,Mitotic / cell-cycle
+4834,pomalidomide,Launched,angiogenesis inhibitor|tumor necrosis factor production inhibitor,,hematologic malignancy,multiple myeloma,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+4842,poziotinib,Phase 2,EGFR inhibitor,EGFR|ERBB2|ERBB4,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+4848,PP242,Preclinical,mTOR inhibitor,MTOR|PASK,,,mTOR inhibitor,PI3K–AKT–mTOR
+4994,pyrazoloacridine,Phase 2,topoisomerase inhibitor,TOP1|TOP2A,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+5007,pyroxamide,Phase 1,HDAC inhibitor,HDAC1,,,HDAC inhibitor,HDAC inhibitor
+5053,RAF265,Phase 2,RAF inhibitor|VEGFR inhibitor,BRAF,,,RAF inhibitor,MAPK (RAF→MEK)
+5054,RAF709,Preclinical,RAF inhibitor,,,,RAF inhibitor,MAPK (RAF→MEK)
+5058,raltitrexed,Launched,thymidylate synthase inhibitor,FPGS|TYMS,oncology,mesothelioma,Thymidylate synthase inhibitor,DNA damage & repair
+5074,rebastinib,Phase 1/Phase 2,Bcr-Abl kinase inhibitor|TIE tyrosine kinase inhibitor|VEGFR inhibitor,ABL1|BCR|FGR|FLT3|HCK|LYN|SRC,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+5077,refametinib,Phase 2,MEK inhibitor,MAP2K1|MAP2K2,,,MEK inhibitor,MAPK (RAF→MEK)
+5084,remetinostat,Phase 2,HDAC inhibitor,,,,HDAC inhibitor,HDAC inhibitor
+5097,resminostat,Phase 2,HDAC inhibitor,HDAC1|HDAC3|HDAC6|HDAC8,,,HDAC inhibitor,HDAC inhibitor
+5115,RGFP966,Preclinical,HDAC inhibitor,HDAC3,,,HDAC inhibitor,HDAC inhibitor
+5118,RG1530,Phase 1,FGFR inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,FGFR1|FGFR2,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5119,RG2833,Phase 1,HDAC inhibitor,HDAC1|HDAC3,,,HDAC inhibitor,HDAC inhibitor
+5194,Ro-4987655,Phase 1,MEK inhibitor,MAP2K1,,,MEK inhibitor,MAPK (RAF→MEK)
+5196,Ro-5126766,Phase 1,MEK inhibitor|RAF inhibitor,BRAF|MAP2K1|MAP2K2|RAF1,,,MEK inhibitor,MAPK (RAF→MEK)
+5204,roblitinib,Preclinical,FGFR inhibitor,,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5205,rociletinib,Phase 3,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5209,rogaratinib,Phase 2/Phase 3,FGFR inhibitor,,,,FGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5215,romidepsin,Launched,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC4|HDAC5|HDAC6|HDAC7|HDAC8|HDAC9,hematologic malignancy,cutaneous T-cell lymphoma (CTCL),HDAC inhibitor,HDAC inhibitor
+5219,roquinimex,Phase 3,angiogenesis inhibitor|tumor necrosis factor production inhibitor,,,,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+5227,rosoxacin,Launched,topoisomerase inhibitor,,infectious disease,urinary tract infections,Topoisomerase inhibitor,Topoisomerase inhibitor
+5262,rubitecan,Phase 3,topoisomerase inhibitor,TOP1,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+5264,rucaparib,Phase 3,PARP inhibitor,PARP1|PARP2,,,PARP inhibitor,DNA damage & repair
+5273,RV1729,Phase 1,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+5281,R306465,Phase 1,HDAC inhibitor,,,,HDAC inhibitor,HDAC inhibitor
+5290,S-111,Phase 2,PARP inhibitor,PARP1,,,PARP inhibitor,DNA damage & repair
+5313,salirasib,Phase 2,mTOR inhibitor,TRPA1,,,mTOR inhibitor,PI3K–AKT–mTOR
+5318,salvianolic-acid-B,Phase 2,EGFR inhibitor|metalloproteinase inhibitor,MMP9,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5332,SAR-245409,Phase 1/Phase 2,PI3K inhibitor,MTOR|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+5340,SAR131675,Preclinical,VEGFR inhibitor,FLT4,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+5341,SAR405,Preclinical,PI3K inhibitor,PIK3C3,,,PI3K inhibitor,PI3K–AKT–mTOR
+5345,satraplatin,Phase 3,DNA alkylating agent,,,,Alkylating / Cross-linking agent,DNA damage & repair
+5346,savolitinib,Phase 3,c-Met inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5362,SB-2343,Phase 1,mTOR inhibitor|PI3K inhibitor,MTOR|PIK3CA|PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+5379,SB-505124,Preclinical,ALK tyrosine kinase receptor inhibitor,TGFBR1,,,ALK inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5381,SB-590885,Preclinical,RAF inhibitor,BRAF,,,RAF inhibitor,MAPK (RAF→MEK)
+5393,SB-939,Phase 3,HDAC inhibitor,HDAC1|HDAC10|HDAC2|HDAC3|HDAC4|HDAC5|HDAC6|HDAC9,,,HDAC inhibitor,HDAC inhibitor
+5395,SBHA,Preclinical,HDAC inhibitor,HDAC1|HDAC3,,,HDAC inhibitor,HDAC inhibitor
+5422,scriptaid,Preclinical,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC4|HDAC5|HDAC6|HDAC7|HDAC8|HDAC9,,,HDAC inhibitor,HDAC inhibitor
+5440,secnidazole,Launched,acetylcholinesterase inhibitor|microtubule inhibitor,,infectious disease,protozoan infection,Microtubule inhibitor,Mitotic / cell-cycle
+5449,seletalisib,Preclinical,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+5455,selumetinib,Phase 3,MEK inhibitor,MAP2K1,,,MEK inhibitor,MAPK (RAF→MEK)
+5458,semaxanib,Phase 3,VEGFR inhibitor,FGFR1|FLT1|KDR|KIT|PDGFRA|PDGFRB|RET,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+5459,semustine,Phase 3,DNA alkylating agent,,,,Alkylating / Cross-linking agent,DNA damage & repair
+5485,SGX523,Phase 1,hepatocyte growth factor receptor inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5504,sinomenine,Preclinical,angiogenesis inhibitor,,,,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+5509,sirolimus,Launched,mTOR inhibitor,FKBP1A|MTOR,transplant|pulmonary,organ rejection|lymphangioleiomyomatosis,mTOR inhibitor,PI3K–AKT–mTOR
+5536,SKLB-1028,Preclinical,Abl kinase inhibitor|EGFR inhibitor|FLT3 inhibitor,,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5537,SKLB1002,Preclinical,VEGFR inhibitor,KDR,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+5546,SN-38,Launched,topoisomerase inhibitor,TOP1,oncology,colorectal cancer,Topoisomerase inhibitor,Topoisomerase inhibitor
+5557,soblidotin,Phase 2,microtubule inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+5559,sobuzoxane,Launched,topoisomerase inhibitor,,hematologic malignancy,peripheral T-cell lymphoma (PTCL),Topoisomerase inhibitor,Topoisomerase inhibitor
+5561,sodium-butyrate,Phase 2,HDAC inhibitor,BCHE|FFAR2|FFAR3|HDAC1|HDAC2|HDAC3|HDAC8,,,HDAC inhibitor,HDAC inhibitor
+5668,streptozotocin,Launched,DNA alkylating agent,,oncology,pancreatic cancer,Alkylating / Cross-linking agent,DNA damage & repair
+5740,SU014813,Phase 2,PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,KDR,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+5741,SU11274,Preclinical,hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,MET,,,MET inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5744,SU4312,Preclinical,PDGFR tyrosine kinase receptor inhibitor|tyrosine kinase inhibitor|VEGFR inhibitor,KDR|PDGFRB,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+5772,tacedinaline,Phase 3,HDAC inhibitor,HDAC1,,,HDAC inhibitor,HDAC inhibitor
+5783,TAK-285,Phase 1,EGFR inhibitor,ERBB2,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+5784,TAK-593,Phase 1,VEGFR inhibitor,PDGFRA,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+5785,TAK-632,Preclinical,RAF inhibitor,BRAF,,,RAF inhibitor,MAPK (RAF→MEK)
+5788,TAK-733,Phase 1,MEK inhibitor,MAP2K1,,,MEK inhibitor,MAPK (RAF→MEK)
+5798,talazoparib,Launched,PARP inhibitor,PARP2,oncology,breast cancer,PARP inhibitor,DNA damage & repair
+5807,taltobulin,Phase 1,tubulin polymerization inhibitor,,,,Microtubule inhibitor,Mitotic / cell-cycle
+5828,TAS-103,Phase 1,topoisomerase inhibitor,TOP1,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+5829,taselisib,Phase 3,PI3K inhibitor,PIK3CA,,,PI3K inhibitor,PI3K–AKT–mTOR
+5832,tasquinimod,Phase 3,angiogenesis inhibitor|S100A9 inhibitor,HDAC4,,,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+5856,TC-H-106,Preclinical,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC8,,,HDAC inhibitor,HDAC inhibitor
+5875,TCS-HDAC6-20b,Preclinical,HDAC inhibitor,HDAC6,,,HDAC inhibitor,HDAC inhibitor
+5903,telatinib,Phase 2,KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,KDR,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+5917,temozolomide,Launched,DNA alkylating agent,MGMT,oncology,glioblastoma|astrocytoma,Alkylating / Cross-linking agent,DNA damage & repair
+5919,temsirolimus,Launched,mTOR inhibitor,MTOR,oncology,renal cell carcinoma (RCC),mTOR inhibitor,PI3K–AKT–mTOR
+5921,tenalisib,Phase 2,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+5927,teniposide,Launched,topoisomerase inhibitor,TOP2A|TOP2B,hematologic malignancy,acute lymphoblastic leukemia (ALL),Topoisomerase inhibitor,Topoisomerase inhibitor
+5974,TG-100572,Preclinical,SRC inhibitor|VEGFR inhibitor,KDR|SRC,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+5975,TG-100713,Preclinical,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+5976,TG-100801,Phase 2,SRC inhibitor|VEGFR inhibitor,CSK|FGFR1|FLT1|FLT4|KDR|SRC,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+5978,TGR-1202,Phase 3,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+5979,TGX-221,Preclinical,PI3K inhibitor,PIK3CB|PIK3CD,,,PI3K inhibitor,PI3K–AKT–mTOR
+5980,TG100-115,Phase 1/Phase 2,PI3K inhibitor,PIK3CA|PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+5981,TH-302,Phase 3,DNA alkylating agent,,,,Alkylating / Cross-linking agent,DNA damage & repair
+6020,tiabendazole,Launched,angiogenesis inhibitor,,infectious disease,gastrointestinal roundworms|hookworm,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+6065,tivozanib,Launched,VEGFR inhibitor,FLT1|FLT4|KDR|KIT|PDGFRA|PDGFRB,oncology,renal cell carcinoma (RCC),VEGFR inhibitor,Angiogenesis / VEGF axis
+6105,topotecan,Launched,topoisomerase inhibitor,TOP1|TOP1MT,oncology,small cell lung cancer|cervical cancer,Topoisomerase inhibitor,Topoisomerase inhibitor
+6110,torin-1,Preclinical,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+6111,torin-2,Preclinical,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+6128,trametinib,Launched,MEK inhibitor,MAP2K1|MAP2K2,oncology,melanoma,MEK inhibitor,MAPK (RAF→MEK)
+6132,tranilast,Launched,angiogenesis inhibitor,HPGDS|HRH1,pulmonary,asthma,Angiogenesis inhibitor,Angiogenesis / VEGF axis
+6163,tributyrin,Phase 1,HDAC inhibitor,,,,HDAC inhibitor,HDAC inhibitor
+6168,trichostatin-a,Phase 1,HDAC inhibitor,HDAC1|HDAC10|HDAC2|HDAC3|HDAC4|HDAC5|HDAC6|HDAC7|HDAC8|HDAC9,,,HDAC inhibitor,HDAC inhibitor
+6171,triclabendazole,Launched,microtubule inhibitor,DNMT1,infectious disease,tapeworm,Microtubule inhibitor,Mitotic / cell-cycle
+6179,trifluridine,Launched,DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor,TYMS,infectious disease,virus herpes simplex (HSV),Thymidylate synthase inhibitor,DNA damage & repair
+6205,trofosfamide,Launched,DNA alkylating agent,,oncology,medulloblastoma,Alkylating / Cross-linking agent,DNA damage & repair
+6230,tubastatin-A,Preclinical,HDAC inhibitor,HDAC6,,,HDAC inhibitor,HDAC inhibitor
+6232,tucatinib,Phase 3,EGFR inhibitor,ERBB2,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+6233,tucidinostat,Phase 3,HDAC inhibitor,,,,HDAC inhibitor,HDAC inhibitor
+6246,tyrphostin-AG-1478,Preclinical,EGFR inhibitor,EGFR|MAPK14,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+6247,tyrphostin-AG-18,Preclinical,EGFR inhibitor|tyrosine kinase inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+6248,tyrphostin-AG-494,Preclinical,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+6254,U-0124,Preclinical,MEK inhibitor,,,,MEK inhibitor,MAPK (RAF→MEK)
+6255,U-0126,Preclinical,MEK inhibitor,AKT1|CHEK1|GSK3B|LCK|MAP2K1|MAP2K2|MAP2K7|MAPK1|MAPK11|MAPK12|MAPK14|MAPK8|PRKCA|RAF1|ROCK1|RPS6KB1|SGK1,,,MEK inhibitor,MAPK (RAF→MEK)
+6272,UF-010,Preclinical,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC8,,,HDAC inhibitor,HDAC inhibitor
+6301,UPF-1069,Preclinical,PARP inhibitor,PARP2,,,PARP inhibitor,DNA damage & repair
+6331,valproic-acid,Launched,benzodiazepine receptor agonist|HDAC inhibitor,ABAT|ACADSB|ALDH5A1|HDAC1|HDAC2|HDAC9|OGDH|SCN10A|SCN11A|SCN1A|SCN1B|SCN2A|SCN2B|SCN3A|SCN3B|SCN4A|SCN4B|SCN5A|SCN7A|SCN8A|SCN9A,neurology/psychiatry,epilepsy|seizures|seizures,HDAC inhibitor,HDAC inhibitor
+6334,valrubicin,Launched,DNA inhibitor|topoisomerase inhibitor,TOP2A,oncology,bladder cancer,Topoisomerase inhibitor,Topoisomerase inhibitor
+6338,vandetanib,Launched,EGFR inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,EGFR|EPHA1|EPHA10|EPHA2|EPHA3|EPHA4|EPHA5|EPHA6|EPHA7|EPHA8|EPHB1|EPHB2|EPHB3|EPHB4|EPHB6|ERBB2|ERBB3|ERBB4|FLT1|FLT4|KDR|PTK6|RET|SRC|TEK|VEGFA,oncology,medullary thyroid cancer (MTC),EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+6349,vatalanib,Phase 3,KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,EGFR|FLT1|FLT4|KDR|PDGFRB,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+6361,veliparib,Phase 3,PARP inhibitor,PARP1|PARP2,,,PARP inhibitor,DNA damage & repair
+6364,vemurafenib,Launched,RAF inhibitor,BRAF|RAF1,oncology,melanoma,RAF inhibitor,MAPK (RAF→MEK)
+6380,verubulin,Phase 2,tubulin polymerization inhibitor,TUBB,,,Microtubule inhibitor,Mitotic / cell-cycle
+6392,vinblastine,Launched,microtubule inhibitor|tubulin polymerization inhibitor,JUN|TUBA1A|TUBB|TUBD1|TUBE1|TUBG1,hematologic malignancy|infectious disease|oncology,Hodgkin's lymphoma|true histiocytic lymphoma (THL)|mycosis|small lymphocytic lymphoma (SLL)|testicular carcinoma|Kaposi sarcoma,Microtubule inhibitor,Mitotic / cell-cycle
+6395,vincristine,Launched,tubulin polymerization inhibitor,TUBA4A|TUBB,hematologic malignancy,acute lymphoblastic leukemia (ALL),Microtubule inhibitor,Mitotic / cell-cycle
+6396,vindesine,Launched,tubulin polymerization inhibitor,TUBB|TUBB1,oncology,breast cancer|non-small cell lung cancer (NSCLC)|melanoma,Microtubule inhibitor,Mitotic / cell-cycle
+6397,vinflunine,Launched,microtubule inhibitor,,oncology,bladder cancer,Microtubule inhibitor,Mitotic / cell-cycle
+6398,vinorelbine,Launched,tubulin polymerization inhibitor,TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,oncology,non-small cell lung cancer (NSCLC),Microtubule inhibitor,Mitotic / cell-cycle
+6417,voreloxin,Phase 3,topoisomerase inhibitor,TOP2A,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+6419,vorinostat,Launched,HDAC inhibitor,HDAC1|HDAC10|HDAC11|HDAC2|HDAC3|HDAC5|HDAC6|HDAC8|HDAC9,hematologic malignancy,cutaneous T-cell lymphoma (CTCL),HDAC inhibitor,HDAC inhibitor
+6423,voxtalisib,Phase 2,mTOR inhibitor|PI3K inhibitor,MTOR|PIK3CA,,,PI3K inhibitor,PI3K–AKT–mTOR
+6464,WAY-600,Preclinical,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+6476,wortmannin,Preclinical,PI3K inhibitor,PI4KA|PI4KB|PIK3CA|PIK3CD|PIK3CG|PIK3R1|PLK1|PRKDC,,,PI3K inhibitor,PI3K–AKT–mTOR
+6484,WYE-125132,Preclinical,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+6485,WYE-354,Preclinical,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+6486,WYE-687,Preclinical,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+6487,WZ-3146,Preclinical,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+6488,WZ-4002,Preclinical,EGFR inhibitor,EGFR|ERBB2,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+6490,WZ8040,Preclinical,EGFR inhibitor,EGFR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+6506,XL147,Phase 2,PI3K inhibitor,PIK3CA|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+6508,XL388,Preclinical,mTOR inhibitor,MTOR,,,mTOR inhibitor,PI3K–AKT–mTOR
+6509,XL647,Phase 3,EGFR inhibitor|VEGFR inhibitor,EGFR|EPHB4|ERBB2|FLT4|KDR,,,EGFR inhibitor,RTK oncogenic drivers (EGFP/ALK/MET/FGFR)
+6530,YM-201636,Preclinical,PI3K inhibitor,,,,PI3K inhibitor,PI3K–AKT–mTOR
+6586,ZM-306416,Preclinical,Abl kinase inhibitor|SRC inhibitor|VEGFR inhibitor,EGFR|FLT1|FLT4|KDR,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+6587,ZM-323881,Preclinical,VEGFR inhibitor,KDR,,,VEGFR inhibitor,Angiogenesis / VEGF axis
+6588,ZM-336372,Preclinical,RAF inhibitor,BRAF|LCK|MAPK14|RAF1,,,RAF inhibitor,MAPK (RAF→MEK)
+6603,zotarolimus,Launched,mTOR inhibitor,FKBP1A,cardiology,coronary artery restenosis,mTOR inhibitor,PI3K–AKT–mTOR
+6607,ZSTK-474,Phase 1/Phase 2,PI3K inhibitor,PIK3CB|PIK3CD|PIK3CG,,,PI3K inhibitor,PI3K–AKT–mTOR
+6634,10-hydroxycamptothecin,Preclinical,topoisomerase inhibitor,TOP1,,,Topoisomerase inhibitor,Topoisomerase inhibitor
+6700,3-amino-benzamide,Phase 2,PARP inhibitor,PARP1,,,PARP inhibitor,DNA damage & repair
+6716,3-methyladenine,Preclinical,PI3K inhibitor,PI3,,,PI3K inhibitor,PI3K–AKT–mTOR
+6732,4-HQN,Preclinical,PARP inhibitor,PARP1,,,PARP inhibitor,DNA damage & repair
+6750,4SC-202,Phase 1,HDAC inhibitor,HDAC1,,,HDAC inhibitor,HDAC inhibitor
+6760,5-fluorouracil,Launched,thymidylate synthase inhibitor,DPYD|TYMS,oncology,colorectal cancer|breast cancer|pancreatic cancer|gastric adenocarcinoma,Thymidylate synthase inhibitor,DNA damage & repair
+6761,5-FP,Phase 1,thymidylate synthase inhibitor,TYMS,,,Thymidylate synthase inhibitor,DNA damage & repair
+6796,9-aminocamptothecin,Phase 2,topoisomerase inhibitor,TOP1,,,Topoisomerase inhibitor,Topoisomerase inhibitor
