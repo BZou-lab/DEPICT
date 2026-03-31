@@ -45,8 +45,8 @@ pip install -r requirements.txt
 ### Code
 "Code" folder contains all the code used in DEPICT, including preprocessing data; training and inference; downstream analysis.
 ### Data
-"Data" folder contains all the data used in DEPICT. Some of the data are not in GitHub due to size limit, and these data can be obtained by using the preprocessing code.
+"Data" folder contains all the data used in DEPICT. Some of the data are not in GitHub due to size limit, and these data can be obtained from [Zenodo](https://zenodo.org/records/19207077).
 ### Model
-"Model" folder contains the saved check points for DEPICT after training.
+"Model" folder contains the saved best check points for DEPICT after training.
 ### Results
-"Results" folder contains the numerical results for model comparison; downstream analysis; tuning results.
+"Results" folder contains the numerical results for model comparison and tuning results.
