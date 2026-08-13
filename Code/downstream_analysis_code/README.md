@@ -1,11 +1,17 @@
 # Downstream analysis code
-This folder contains 3 downstream analyses did in our study.
+This folder contains downstream analyses did in our study. For detailed description, please see the Methods in our paper.
 
-## DrugPrioritization
-This part corresponds to the section 'Mechanism-guided virtual screening identifies candidates that reverse NSCLC transcriptional signatures' in our paper.
+## TransferabilityUnseenCell
+This part corresponds to the results shown in the Fig. 2 panel b.
 
-## DrugSynergyPrediction
-This part corresponds to the section 'Synergy prediction using condition-matched predicted profiles' in our paper.
+## DGELandscape
+This part corresponds to the results shown in the Fig. 3 panel a.
 
-## ExploratoryAnalysis
-This part corresponds to the section 'Exploratory analysis on predicted perturbations' in our paper.
+## PathwayRecovery
+This part corresponds to the results shown in the Fig. 3 panel b-d.
+
+## DrugSynergy
+This part corresponds to the results shown in the Fig. 4.
+
+## NSCLCDrugScreening
+This part corresponds to the results shown in the Fig. 5 and 6.
