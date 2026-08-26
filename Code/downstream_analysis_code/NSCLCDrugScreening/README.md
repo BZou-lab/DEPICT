@@ -18,3 +18,6 @@ This code will generate the spearman correlation and connectivity score for the 
 
 ## CompareTwoResults_meanPlate.py
 Run this code last. This code will generate the prioritization results, and check the overlapping drugs between observed LINCS and predicticed LINCS by DEPICT.
+
+## PlotCodes
+This folder contains the plotting codes for generating the fig 5 and 6 in our paper. If you are interested in using the plot codes, please make sure the paths are corrected before your usage.
