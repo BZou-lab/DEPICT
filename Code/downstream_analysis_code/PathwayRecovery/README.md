@@ -1,17 +1,11 @@
-# Downstream analysis code
-This folder contains downstream analyses did in our study. For detailed description, please see the Methods in our paper.
+# Pathway Recovery Analysis
+This folder contains the codes for pathway recovery analysis, which corresponds to the analysis in fig 3 panel b, c and d.
 
-## TransferabilityUnseenCell
-This part corresponds to the results shown in the Fig. 2 panel b.
+## DEPICT_PredictedDGE_SeparatedBySplitType.ipynb
+Run this first, this is the prediction code that let you extract the predicted DGE and also extract some summary statistics.
 
-## DGELandscape
-This part corresponds to the results shown in the Fig. 3 panel a.
+## DEPICT_Analysis3_Compute.py
+Run this second, it will need the output from the previous code. This code did the hard computation for this analysis.
 
-## PathwayRecovery
-This part corresponds to the results shown in the Fig. 3 panel b-d.
-
-## DrugSynergy
-This part corresponds to the results shown in the Fig. 4.
-
-## NSCLCDrugScreening
-This part corresponds to the results shown in the Fig. 5 and 6.
+## DEPICT_Analysis3_PublicationPlots_PooledFig4D_fold_colors_matched_Analysis1A.ipynb
+Run this last, this is the plot codes with some quality checks.
