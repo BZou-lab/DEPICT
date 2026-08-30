@@ -1,7 +1,7 @@
 # DEPICT
 This is the GitHub page for DEPICT (Drug rEsponse Prediction in transCriptomics with Transformers).
 
-Paper Title: Condition-matched in silico prediction of drug transcriptional responses enables mechanism-guided screening and combination discovery.
+Paper Title: Learning transferable cellular state transitions from multimodal perturbation data.
 
 ## Environment
 The "requirements.txt" are used to set up the virtual environment.
